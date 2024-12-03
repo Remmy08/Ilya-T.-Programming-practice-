@@ -1,4 +1,3 @@
-
 <h1 align="center">Привет! Меня зовут Тыщенко Илья
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -15,4 +14,10 @@
 <p>Telegram: @ilkft</p>
 <p>Вконтакте: https://vk.com/id492538212</p>
 <p>E-mail: ilya.tys08@gmail.com</p>
-<img src="https://media1.tenor.com/m/YCWXRHSrNEkAAAAC/zero-zero-two.gif" alt="я джифка">
+<div  position: relative;>
+  <img src="https://media1.tenor.com/m/YCWXRHSrNEkAAAAC/zero-zero-two.gif" height="200">
+  <img src="https://media1.tenor.com/m/L2fnpSwxF88AAAAd/valgo.gif" height="200">
+  <img src="https://media1.tenor.com/m/lGbwxY53qB4AAAAd/genshin-meme.gif" height="200">
+  <img src="https://media1.tenor.com/m/mNZp-3Kbx5IAAAAd/beaver-dis-beav.gif" height="200">
+  <img src="https://media.tenor.com/j2ESpKgKChUAAAAi/anime-cute.gif" height="200">
+</div>
